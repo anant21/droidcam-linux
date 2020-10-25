@@ -1,10 +1,10 @@
 # Droidcam-Linux
-Use your mobile as a webcam of your laptop on Linux (Debian) platform.
+Use your mobile as a webcam of your laptop on Linux platform.
 
 ## Installation
 
 #### Requirements
-  * Linux - Debian Platform
+  * Linux OS
   
 #### Steps (without Git)
   * Download the zip file
