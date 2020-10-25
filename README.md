@@ -11,7 +11,7 @@ Use your mobile as a webcam of your laptop on Linux (Debian) platform.
   * Open the terminal in the "Downloads" directory
   * Unzip the downloaded file using the following command \
    ` unzip droidcam-linux-main.zip `\
-  * Change the directory to "droidcam-linux-main"
+  * Change the directory to "droidcam-linux-main" \
    ` cd droidcam-linux-main `
   * Make the "droidcamInstall.sh" file executable \
    ` chmod +x droidcamInstall.sh `
@@ -23,7 +23,7 @@ Use your mobile as a webcam of your laptop on Linux (Debian) platform.
 #### Steps (using Git)
   * Clone the repository \
    ` git clone https://github.com/anant21/droidcam-linux.git `
-  * Change the directory to "droidcam-linux"
+  * Change the directory to "droidcam-linux" \
    ` cd droidcam-linux ` 
   * Make the "droidcamInstall.sh" file executable \
    ` chmod +x droidcamInstall.sh `
@@ -36,5 +36,5 @@ Use your mobile as a webcam of your laptop on Linux (Debian) platform.
   * Run the following command to remove the droidcam application from your linux system \
    ` sudo /opt/droidcam-uninstall `
 
-@This Installation script is made by Anant Gangwar (@anant21)
+@This Installation script is made by Anant Gangwar (@anant21) \
 @Owner - Dev47Apps
