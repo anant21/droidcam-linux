@@ -34,7 +34,7 @@ Use your mobile as a webcam of your laptop on Linux (Debian) platform.
   
 ## Removal
   * Run the following command to remove the droidcam application from your linux system \
-   ` sudo /opt/droidcam-uninstall `
+   ` sudo /opt/droidcam-uninstall ` \ 
 
 @This Installation script is made by Anant Gangwar (@anant21) \
 @Owner - Dev47Apps
