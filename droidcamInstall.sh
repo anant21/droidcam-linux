@@ -2,10 +2,14 @@
 
 cd /tmp/
 wget https://files.dev47apps.net/linux/droidcam_latest.zip
-echo "CHECK ..."
-echo "73db3a4c0f52a285b6ac1f8c43d5b4c7 droidcam_latest.zip" | md5sum -c --
+
 unzip droidcam_latest.zip -d droidcam && cd droidcam
-sudo ./install
+sudo ./install-client
+
+sudo apt install linux-headers-`uname -r` gcc make
+sudo apt autoremove
+
+sudo ./install-video
 
 echo "CHECKING if Video Device Installed ..."
 lsmod | grep v4l2loopback_dc
