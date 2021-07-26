@@ -1,5 +1,6 @@
 # Droidcam-Linux
-Use your mobile as a webcam of your laptop on Linux platform.
+Use your mobile as a webcam of your laptop on Linux platform. \
+This script takes less than 30 secs for installation & configuration. (in Updation)
 
 ## Installation
 
